@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Abhi",
+      "email": "abhi@gmail.com",
+      "phone": 745896365,
+      "address": "USA"
+    },
+    {
+      "name": "Shubham",
+      "email": "shu123@gmail.com",
+      "phone": "123456789",
+      "address": "Pune",
+      "id": 2
+    },
+    {
+      "name": "Harshil",
+      "email": "harshil@gmail.com",
+      "phone": "78945612325",
+      "address": "cdsdcvd",
+      "id": 3
+    },
+    {
+      "name": "Apple",
+      "email": "apple@gmail.com",
+      "phone": "78945612325",
+      "address": "Surat",
+      "id": 4
+    }
+  ]
+}
